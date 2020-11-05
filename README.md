@@ -71,6 +71,18 @@ Turma teens Reprograma | Front-end básico | 2020 | Fundamentos de HTML e CSS II
 
 ---
 
+### Sugestão de exercício para a semana
+> Entregas até o dia 13/11 via Google Class
+1. Crie um arquivo .html e outro . css no seu editor VsCode
+2. Defina as configurações para o arquivo html como html:5
+3. Nomeie o nome do seu documento como preferir
+4. Cria um elemento formulário que simule alguma demanda específica de um negócio. Exemplo: Consultório de dentista; cadastro de banco; login de site de relacionamentos, etc. Use sua criatividade :)
+5. Dentro do elemento form, utilize pelo menos 3 dos tipos de inputs que vimos durante as aulas da semana
+6. Além dos inputs, utilizes mais 2 outros tipos de elemento para compor esse form
+7. Não esqueça de estilizar o seu formulário utilizando o CSS, deixe ele bem bonitão! Sinta-se à vontade para utilizar imagens, fontes ou ícones externos
+8. Ao finalizar, submeta seu exercício via Google Class
+
+---
 ### Links úteis para estudo de CSS, HTML
 
 - [CSS Tricks - Dicas de CSS](https://css-tricks.com/)

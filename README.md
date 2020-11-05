@@ -7,10 +7,6 @@ Turma teens Reprograma | Front-end básico | 2020 | Fundamentos de HTML e CSS II
 
 ---
 
-[link para o dontpad (quadro online de dúvidas e comentários)](http://dontpad.com/teenshtmlcss2);
-
----
-
 [link para o protótipo do formulário que faremos em aula](https://reprograma-teens-semana2.netlify.app/);
 
 ---

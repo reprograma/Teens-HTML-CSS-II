@@ -36,8 +36,8 @@ Turma teens Reprograma | Front-end básico | 2020 | Fundamentos de HTML e CSS II
       - [x] Para estruturar uma agenda semanal
       - [x] Para criar uma relação de datas e horários disponíveis para o seu usuário
       - [x] Para facilitar a leitura de dados que são correlacionados, layout mais limpo e atraente
-  - [x] - Estilizando o CSS juntas - explorando propriedades, filhos diretos, filhos indiretos
-  - [x] Pseudo-seletores CSS - `:hover` `:focues` 
+  - [x] Estilizando o CSS juntas: explorando propriedades, filhos diretos, filhos indiretos
+  - [x] Pseudo-seletores CSS - `:hover` `:focus` 
   
 - [x] **Powerpoint parte III retomando a tarde**
   - [x] Responder dúvidas
@@ -50,7 +50,8 @@ Turma teens Reprograma | Front-end básico | 2020 | Fundamentos de HTML e CSS II
 - [x] **Dúvidas da semana**
 - [x] **Retomando conceitos trabalhados**
 - [x] **Correção do desafio de montar a Tabela**
-  - [x]Estilizando a tabela com CSS
+    - [x] Estilizando a tabela com CSS
+  
   
 - [x] **Display flex - Suas propriedades que ajudam na responsividade**
   - [x] Mães `<div>`as e filhas `<div>`inhas. Display na mãe, mexe as filhas.
@@ -68,22 +69,22 @@ Turma teens Reprograma | Front-end básico | 2020 | Fundamentos de HTML e CSS II
 
 ### Links úteis para estudo de CSS, HTML
 
-- [CSS Tricks - Dicas de CSS](https://css-tricks.com/);
-- [Web Skills - habilidades importantes para desenvolvimento web](https://andreasbm.github.io/web-skills/);
-- [Conteúdo sobre Tabelas](https://www.w3schools.com/html/html_tables.asp);
-- [Conteúdo sobre Estilização de Tabelas](https://www.w3schools.com/css/css_table.asp);
-- [Conteúdo sobre Formulários](https://www.w3schools.com/tags/tag_form.asp);
-- [Mais Conteúdo sobre Formulários](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Forms/Meu_primeiro_formulario_HTML);
+- [CSS Tricks - Dicas de CSS](https://css-tricks.com/)
+- [Web Skills - habilidades importantes para desenvolvimento web](https://andreasbm.github.io/web-skills/)
+- [Conteúdo sobre Tabelas](https://www.w3schools.com/html/html_tables.asp)
+- [Conteúdo sobre Estilização de Tabelas](https://www.w3schools.com/css/css_table.asp)
+- [Conteúdo sobre Formulários](https://www.w3schools.com/tags/tag_form.asp)
+- [Mais Conteúdo sobre Formulários](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Forms/Meu_primeiro_formulario_HTML)
 
 
 
 **Sites úteis para buscar por imagens, gifs e ícones para seu layout**
 
-- [Giphy - gifs](https://giphy.com/);
-- [Humaans - ícones](https://www.humaaans.com/);
-- [Wireframe - para criar proótipos e layout](https://wireframe.cc/);
-- [Figma - criação de protótipos e layout](https://www.figma.com/);
-- [The Noun Project - ícones](https://thenounproject.com/);
+- [Giphy - gifs](https://giphy.com/)
+- [Humaans - ícones](https://www.humaaans.com/)
+- [Wireframe - para criar proótipos e layout](https://wireframe.cc/)
+- [Figma - criação de protótipos e layout](https://www.figma.com/)
+- [The Noun Project - ícones](https://thenounproject.com/)
 
 
 
